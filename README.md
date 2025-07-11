@@ -52,7 +52,8 @@ pip install pandas matplotlib seaborn openpyxl
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Sumaia19021/Antimicrobial_Activity_Analysis--Python-Project.git
+git clone [Antimicrobial Activity Analysis – Python Project](https://github.com/Sumaia19021/Antimicrobial_Activity_Analysis--Python-Project.git)
+
 
 ```
 
